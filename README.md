@@ -1,4 +1,4 @@
-# covid19app
+#Covid Care
 
 A new Flutter application.
 
